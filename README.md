@@ -1,3 +1,3 @@
 # Python basic projects
-# Learning python
+# Learning python basic to advance
 
